@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Dj2k22 
+- 👋 Hi, I’m Di-Jaun
 - 👀 I’m interested in chess, coding, basketball, trading
-- 🌱 I’m currently learning vanilla JS & Jquery
+- 🌱 I’m currently learning & improving my vanilla JS & Jquery
 - 💞️ I’m open and available to collaborate on projects
 - 📫 You can contact me at sdijaun@gmail.com
 
